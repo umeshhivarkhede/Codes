@@ -33,7 +33,7 @@ echo $bike_color=$employee->color('Suresh')
 // trait hello{
 //  public function sayhi(){
 //     return "hi";
-//  }
+//  }fgfdg
 // }
 
 // trait bye{
