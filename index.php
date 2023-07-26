@@ -1,5 +1,5 @@
 <?php
-
+// chjjd
 trait Car{
     public function color($name){
         return "Car Color Red";
