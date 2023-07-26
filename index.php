@@ -1,5 +1,6 @@
 <?php
 // chjjd
+//on git
 trait Car{
     public function color($name){
         return "Car Color Red";
