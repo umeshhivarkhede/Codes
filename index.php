@@ -38,7 +38,7 @@ echo $bike_color=$employee->color('Suresh')
 
 // trait bye{
 //     public function sayhi(){
-//         return "hi with bye";
+//         return "hi wiitth bye";
 //      }
 //  public function saybye(){
 //         return "bye";
