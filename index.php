@@ -3,11 +3,11 @@
 //jjdjd
 //on git
 trait Car{
-    public function color($name){
+    public function colo1r($name){
         return "Car Color Red";
     }
 }
-
+xxzxz
 trait Bike{
     private function color($name){
         return $name."  Bike Color is black";
