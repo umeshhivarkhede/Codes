@@ -2,7 +2,7 @@
 // chjjd111sassaas
 //jjdjd
 //on git
-trait Car{
+trait Car{ sss
     public function colo1r($name){
         return "Car Color Red";
     }
