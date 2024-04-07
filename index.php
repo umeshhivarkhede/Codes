@@ -7,6 +7,11 @@ trait Car{
         return "Car Color Red";
     }
 }
+trait Car{
+    public function colo1r($name){
+        return "Car Color Red";
+    }
+}
 xxzxz
 trait Bike{
     private function color($name){
